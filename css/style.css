@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f2f5;
+}
+.row1{
+    margin-left: 160px;
+}
+.main h1{
+    color: blue;
+    font-size: 60px;
+    font-family: Arial;
+    margin-left: 33px;
+    margin-top: 248px;
+    position: absolute;
+}
+.main2 h3{
+    padding-top: 315px;
+    margin-left: 34px;
+    font-family: Arial;
+    color: black;
+    position: relative;
+}
+.row2{
+    background-color: #ffffff;
+    width: 430px;
+    padding: 21px;
+    border: 5px solid #ffffff;
+    margin-left: 600px;
+    margin-top: -163px;
+    padding-bottom: 15px;
+    position: absolute;
+    border-radius: 6px;
+    box-shadow: 4px 5px 23px 0px;
+}
+.row2 input{
+    border: 2px solid #dddfe2;
+    width: 390px;
+    padding: 15px;
+    font-size: 18px;
+    opacity: 0.8;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+::placeholder{
+    font-size: 16px;
+    color: #9d8084;
+}
+
+.btn1{
+    background-color: blue;
+    color: #ffffff;
+    width: 420px;
+    font-size: 24px;
+    padding: 10px;
+    font-family: Arial;
+    border: 1px solid blue;
+    border-radius: 6px;
+}
+.btn1:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+.bb1{
+    color: blue;
+    text-decoration: none;
+    margin-left: 140px;
+    font-size: 17px;
+    margin-top: 16px;
+    font-family: Arial;
+}
+.bb1:hover{
+    text-decoration: underline;
+}
+hr{
+    border: 1px solid #dddfe2;
+    margin-top: 16px;
+}
+.btn2{
+    background-color: green;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 14px;
+    margin-top: 15px;
+    margin-left: 101px;
+    border-radius: 6px;
+    font-family: Arial;
+    border: 1px solid green;
+    font-weight: bold;
+}
+.btn2:hover{
+    /* cursor: pointer; */
+    opacity: 0.8;
+}
+pre{
+    margin-left: 662px;
+    margin-top: 120px;
+    font-family: Arial;
+}
+.line{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 21px;
+    color: black;
+    
+}
+.line:hover{
+    text-decoration: underline;
+}
+.b{
+    font-size: 14px;
+    margin-left: px;
+}
